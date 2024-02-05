@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "obj/doubly-linked.o",
+      "src/doubly-linked.c"
+    ],
+    "directory": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3",
+    "file": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3/src/doubly-linked.c",
+    "output": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3/obj/doubly-linked.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3",
+    "file": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3/src/main.c",
+    "output": "/home/ianjoens/source/personal/crafting-interpreters/book/1/1.3/obj/main.o"
+  }
+]
